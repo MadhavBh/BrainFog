@@ -1,0 +1,2 @@
+# BrainFog
+An EEG Machine
